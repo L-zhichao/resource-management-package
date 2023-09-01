@@ -18,6 +18,7 @@ SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
 -- ----------------------------
+-- Table structure for damage_record
 -- ----------------------------
 DROP TABLE IF EXISTS `damage_record`;
 CREATE TABLE `damage_record`  (
